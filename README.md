@@ -20,7 +20,10 @@ Simply type up your note, and press save!
 ## Finished Product
 View the deployed version via Heroku: https://lit-thicket-56443.herokuapp.com/
 
-![Sample photo](Capture.JPG)
+## Gif of website in action
+
+![NoteTaker Gif](https://user-images.githubusercontent.com/61300825/90836418-2fd3b780-e304-11ea-9a8c-a9a6a39b045b.gif)
+
 
 ## Technologies
 HTML
